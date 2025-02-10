@@ -1,5 +1,9 @@
 # OpenSCAP-Prototype
 
+NOTE: This repository was an experiment that is now finished and therefore is archived.
+
+The outcomes of this experiment were incorporated at https://github.com/complytime/complytime
+
 ## Overview
 
 **OpenSCAP-Prototype** is a plugin which extends the **Comply-Prototype** capabilities to use OpenSCAP. The plugin communicates with **Comply-Prototype** via gRPC, providing a standard and consistent communication mechanism while also allowing plugins developers to choose their preferred languages to contribute. This project is structured to allow modular development, ease of packaging, and maintainability.
